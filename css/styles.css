@@ -19,6 +19,7 @@ body {
 ------------------------------*/
 .home {
     background: url(../images/bg-home-office-studio.jpg) no-repeat;
+    background-size: cover;
 }
 
 /* RESUME
