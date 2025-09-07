@@ -119,7 +119,7 @@ footer a:hover {
     font-size: 1.5rem;
 }
 
-/* Profile
+/* Projects
 ------------------------------*/
 .project-item {
     display: flow-root;
@@ -130,9 +130,6 @@ footer a:hover {
     float: left;
     margin-right: 20px;
 }
-
-/* Projects
-------------------------------*/
 
 /* Work Experience
 ------------------------------*/
